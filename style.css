@@ -1,5 +1,33 @@
+* {
+  font-family: Roboto, sans-serif;
+}
+
 h1 {
-  font-family: sans-serif;
   color: #514677;
-  /* font-style: italic; */
+  font-weight: 400;
+}
+
+.contact-us {
+  font-weight: 300;
+}
+
+.contact-details {
+  font-size: 20px;
+  margin: 90px;
+  font-weight: 400;
+}
+
+a {
+  color: #514677;
+  text-decoration: none;
+}
+
+.main {
+  padding-right: 10px;
+}
+
+.contact-email,
+.contact-phone {
+  font-weight: 400;
+  display: flex;
 }
